@@ -1,0 +1,12 @@
+.caruselstyle{ 
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.footerstyle{
+
+    padding: 40px;
+}
